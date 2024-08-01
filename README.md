@@ -1,8 +1,10 @@
 # SMS Spam Classification using Naive Bayes
-![Screenshot]()
+
 ## About the Project
 
 This project provides a web application for classifying SMS messages as spam or ham using a Naive Bayes classifier. The application allows users to enter SMS messages, which are then classified and the result is displayed. The classification model is trained using the SMS Spam Collection Dataset, which is publicly available on [UCI Machine Learning Repository](https://doi.org/10.24432/C5CC84).
+
+![Screenshot](https://github.com/praiseprince/NaiveBayesSMSClassifier/blob/main/Web%20app/static/images/Screenshot.png)
 
 ## Files
 
